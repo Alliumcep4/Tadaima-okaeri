@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'Nosutaru';
-  src: url('fonts/Nosutaru-dotMPlusH-10-Regular.ttf') format('woff2'), /* Preferible */
-  /*  Añade más formatos si es necesario */
+  src: url('fonts/Nosutaru-dotMPlusH-10-Regular.ttf') format('truetype');
 }
+
 
 :root{
     --green: #27ae60;
